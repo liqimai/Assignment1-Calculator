@@ -36,3 +36,4 @@ assign	bp[0]=p[3]&p[2]&p[1]&p[0],
 			bp[3]=p[15]&p[14]&p[13]&p[12];
 
 endmodule
+
